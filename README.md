@@ -1,5 +1,7 @@
 # Pharma QMS — Complaint Intelligence
 
+**Live demo:** [pharma-qms-ai.vercel.app](https://pharma-qms-ai.vercel.app/)
+
 An AI-assisted Quality Management System (QMS) tool for pharmaceutical complaint intake. A user pastes complaint text or drops in a document (PDF / DOCX / TXT), an LLM extracts structured fields and generates analytical insights (summary, root cause, CAPA), and the reviewer edits/saves the record with built-in duplicate detection against prior complaints.
 
 ## Contents
